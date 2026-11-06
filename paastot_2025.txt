@@ -1,0 +1,6 @@
+Ensirekisteröityjen ajoneuvojen määrä viikoittain:
+Viikko;Lkm
+00;6
+02;1
+38;3
+50;5
