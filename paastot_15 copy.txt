@@ -1,0 +1,16 @@
+AjoneuvoID;EnsirekisterointiPvm;Ajoneuvoluokka;CO2_WLTP
+322383;02.01.2025;Henkilöauto;283
+322947;02.01.2025;Pakettiauto;231
+325110;02.01.2025;Henkilöauto;116
+325602;02.01.2025;Pakettiauto;217
+325753;02.01.2025;Henkilöauto;200
+329359;03.01.2025;Henkilöauto;150
+329389;14.01.2025;Pakettiauto;200
+334149;23.09.2025;Pakettiauto;145
+334156;23.09.2025;Henkilöauto;103
+334185;23.09.2025;Pakettiauto;194
+336586;18.12.2025;Henkilöauto;283
+336629;18.12.2025;Pakettiauto;145
+336631;18.12.2025;Pakettiauto;145
+336641;18.12.2025;Henkilöauto;130
+336788;18.12.2025;Henkilöauto;130
